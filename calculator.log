@@ -1,0 +1,24 @@
+2023-03-20 18:49:00.165 [main] INFO  org.example.Calculator - [SQ ROOT] - 3.0
+2023-03-20 18:49:00.168 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2023-03-20 18:49:00.169 [main] INFO  org.example.Calculator - [SQ ROOT] - 4.0
+2023-03-20 18:49:00.170 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 2.0
+2023-03-20 18:49:00.171 [main] INFO  org.example.Calculator - [NATURAL LOG] - 1.0
+2023-03-20 18:49:00.172 [main] INFO  org.example.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-20 18:49:00.172 [main] INFO  org.example.Calculator - [NATURAL LOG] - 1.0
+2023-03-20 18:49:00.173 [main] INFO  org.example.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-20 18:49:00.181 [main] INFO  org.example.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2023-03-20 18:49:00.182 [main] INFO  org.example.Calculator - [RESULT - POWER] - 4.0
+2023-03-20 18:49:00.186 [main] INFO  org.example.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-20 18:49:00.187 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-20 18:49:00.188 [main] INFO  org.example.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-20 18:49:00.189 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-20 18:49:00.189 [main] INFO  org.example.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2023-03-20 18:49:00.190 [main] INFO  org.example.Calculator - [RESULT - POWER] - 64.0
+2023-03-20 18:49:00.191 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.4
+2023-03-20 18:49:00.192 [main] INFO  org.example.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2023-03-20 18:49:00.192 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.1
+2023-03-20 18:49:00.193 [main] INFO  org.example.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2023-03-20 18:49:00.194 [main] INFO  org.example.Calculator - [SQ ROOT] - 4.0
+2023-03-20 18:49:00.194 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 2.0
+2023-03-20 18:49:00.195 [main] INFO  org.example.Calculator - [SQ ROOT] - 1.0
+2023-03-20 18:49:00.195 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 1.0
