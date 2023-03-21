@@ -1,2 +1,2 @@
 # spe_mini_project
-Software Production Engineering
+Software Production Engineering CS816
